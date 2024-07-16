@@ -1,4 +1,4 @@
-# Puzzle Game Project
+# Puzzle Game 
 
 This repository contains the source code for a simple Java-based game. The project consists of the following main components:
 
